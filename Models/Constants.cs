@@ -14,6 +14,7 @@ namespace PublishAPI.Models
         public const string DatabaseSettings = "DatabaseSettings";
         public const string UserSettings = "UserSettings";
 
+        public const string testChanges = "testChanges";
         public static string Health { get; internal set; }
         public static string HealthCommand { get; internal set; }
     }
